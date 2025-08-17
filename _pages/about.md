@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,13 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am pursuing a Master’s degree in Epidemiology at Johns Hopkins University (since 2023). During this period, I served as a research assistant under the guidance of Prof. Jennifer Schrack and Prof. Ciprian Crainiceanu. I’m also fortunate to collaborate with Prof. John Muschelli. Prior to this, I underwent a year of Biostatistics Master training at Renmin University of China (2022-2023) under the guidance of A. Prof. Yu Wang. My academic journey began with a B.Eng degree (2018-2022) earned at Zhejiang University, where I was under the supervision of Prof. Yu Zhang. I felt lucky to have engaged in research collaborations with Prof. Ming Chen, Prof. Baiyi Lu, and A. Prof. Li Li. I am dedicated to enhance my professional skills in the combination field of BIOS & BIOINFO & EPI and cultivate the ability of innovation.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am intrigued by the integration of aging indicators (e.g. frailty, biological age), digital biomarkers (e.g. wearable measurement), age-related disease (e.g. Dementia, CVD), and omics (e.g. Metabonomics, Metagenomics, GWAS). Furthermore, exploring biostatistical (e.g. causal inference, functional data) and data science (e.g. transfer learning, deep learning) methods also drive my interest. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=QmKga9sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+
+Sunan Gao is an incoming PhD student in Population Health Sciences (Epidemiology) at Harvard T.H. Chan School of Public Health. He holds a B.Eng. from Zhejiang University and a Master’s in Epidemiology from Johns Hopkins University. His research integrates high-dimensional data analysis, causal inference, machine learning, and wearable device data to better understand and intervene in aging-related processes. His research experience spans high-dimensional data analysis, causal inference, machine learning, and wearable device. These experiences have shaped his passion for understanding and intervening in aging-related processes. He has co-authored over ten peer-reviewed publications and developed tools for analyzing biological age, digital signals and time series data. Outside of research, he enjoys photography, reading, traveling, and playing ball games.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉🎉 I received Abe Lilienfeld Scholarship Fund by Hopkins.
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
