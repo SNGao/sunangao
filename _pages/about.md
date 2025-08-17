@@ -32,7 +32,7 @@ Sunan Gao is an incoming PhD student in Population Health Sciences (Epidemiology
 # 🔥 News
 - *2025.07*: &nbsp;🎉 My undergraduate work was accepted for publication in Ecotoxicology and Environmental Safety!
 - *2025.05*: &nbsp; I graduated from Hopkins with an ScM degree in Epidemiology.
-- *2025.05*: &nbsp; I received the Abe Lilienfeld Scholarship Fund ($5,000) at Hopkins.
+- *2025.05*: &nbsp; I received the [Abe Lilienfeld Scholarship Fund](https://publichealth.jhu.edu/offices-and-services/office-of-admissions-services/funding-and-scholarships/funding-for-students/fund/83/abe-lilienfeld-scholarship-fund) ($5,000) at Hopkins.
 - *2025.05*: &nbsp;🎉 My Mendelian Randomization paper was accepted for publication in Food & Function.
 - *2025.03*: &nbsp;🎉 My Step Harmonization paper was accepted for publication in The Journals of Gerontology: Series A.
 - *2025.02*: &nbsp; I was admitted to the PhD Program in Population Health at Harvard!
@@ -44,7 +44,7 @@ Sunan Gao is an incoming PhD student in Population Health Sciences (Epidemiology
 
 [A new method for internal urinary metabolite exposure and dietary exposure association assessment of 3-MCPD and glycidol and their esters based on machine learning](https://www.sciencedirect.com/science/article/pii/S0147651325008954)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yimei Tian, **Sunan Gao**, Fan Zhang, Xuzhi Wan, Wei Jia, Jingjing Jiao, Yilei Fan, Yu Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -54,16 +54,30 @@ Sunan Gao is an incoming PhD student in Population Health Sciences (Epidemiology
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2025.05 Abe Lilienfeld Scholarship Fund (one student per year at BSPH, across master’s and doctoral students)
+- 2023.08 Master’s Tuition Scholarship, Johns Hopkins University
+- 2022.05 Outstanding Undergraduate Thesis (Top 1%)
+- 2021.10 National Scholarship (Top 1%)
+- 2020.10 National Scholarship (Top 1%)
+- 2020.05 Gold Prize, China International Student Innovation Competition (Top 1%)
+- 2019.10 National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2025.08 - 2029.05 (Expected), doctor of philosophy, Harvard University, Boston, United States
+- 2023.08 - 2025.05, Master of Science, Harvard University, Baltimore, United States
+- 2018.08 - 2022.08, Bachelor of Engineering, Zhejiang University, Hangzhou, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💬 Teaching Experiences
+- *2020.10 - 2021.01*, Engineering Mechanics, Tutor, Zhejiang University
+- **2024.09 - 2025.05**, Epidemiologic Methods (I-III), Tutor, Johns Hopkins
+- **2024.08 - 2025.05**, Methods in Biostatistics (I-IV), Teaching Assistant, Johns Hopkins
+
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 2019.05 - 2020.02, [Lorem](https://github.com/), China.
+
+
+
+
+
