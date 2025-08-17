@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student in Population Health Sciences (Epidemiology) at Harvard T.H. Chan School of Public Health. My research interest in 
+I am a first-year PhD student in Population Health Sciences (Epidemiology) at Harvard T.H. Chan School of Public Health, supervised by Dr. Yuan Ma. 
 
 
 pursuing a Master’s degree in Epidemiology at Johns Hopkins University (since 2023). During this period, I served as a research assistant under the guidance of Prof. Jennifer Schrack and Prof. Ciprian Crainiceanu. I’m also fortunate to collaborate with Prof. John Muschelli. Prior to this, I underwent a year of Biostatistics Master training at Renmin University of China (2022-2023) under the guidance of A. Prof. Yu Wang. My academic journey began with a B.Eng degree (2018-2022) earned at Zhejiang University, where I was under the supervision of Prof. Yu Zhang. I felt lucky to have engaged in research collaborations with Prof. Ming Chen, Prof. Baiyi Lu, and A. Prof. Li Li. I am dedicated to enhance my professional skills in the combination field of BIOS & BIOINFO & EPI and cultivate the ability of innovation.
@@ -39,7 +39,7 @@ Sunan Gao is an incoming PhD student in Population Health Sciences (Epidemiology
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecotoxicology and Environmental Safety</div><img src='images/publication/EES.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecotoxicology and Environmental Safety</div><img src='images/publication/EES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A new method for internal urinary metabolite exposure and dietary exposure association assessment of 3-MCPD and glycidol and their esters based on machine learning](https://www.sciencedirect.com/science/article/pii/S0147651325008954)
