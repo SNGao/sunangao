@@ -30,18 +30,19 @@ Sunan Gao is an incoming PhD student in Population Health Sciences (Epidemiology
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 I received Abe Lilienfeld Scholarship Fund by Hopkins.
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉 My undergraduate work was accepted for publication in Ecotoxicology and Environmental Safety!
+- *2025.05*: &nbsp; I graduated from Hopkins with an ScM degree in Epidemiology.
+- *2025.05*: &nbsp; I received the Abe Lilienfeld Scholarship Fund ($5,000) at Hopkins.
+- *2025.05*: &nbsp;🎉 My Mendelian Randomization paper was accepted for publication in Food & Function.
+- *2025.03*: &nbsp;🎉 My Step Harmonization paper was accepted for publication in The Journals of Gerontology: Series A.
+- *2025.02*: &nbsp; I was admitted to the PhD Program in Population Health at Harvard!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecotoxicology and Environmental Safety</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A new method for internal urinary metabolite exposure and dietary exposure association assessment of 3-MCPD and glycidol and their esters based on machine learning](https://www.sciencedirect.com/science/article/pii/S0147651325008954)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
