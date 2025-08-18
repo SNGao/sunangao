@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: ""
+permalink: /sunangao/more/
+title: "More"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /more/
-  - /more.html
 ---
 
 
