@@ -45,9 +45,15 @@ Sunan Gao is an incoming PhD student in Population Health Sciences (Epidemiology
 [A new method for internal urinary metabolite exposure and dietary exposure association assessment of 3-MCPD and glycidol and their esters based on machine learning](https://www.sciencedirect.com/science/article/pii/S0147651325008954)
 
 Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia, Jingjing Jiao, Yilei Fan, Yu Zhang
+</div>
+</div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food & Function</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring causal links in the gut–brain axis: a Mendelian randomization study of gut microbiota, metabolites, and cognition](https://www.sciencedirect.com/science/article/pii/S0147651325008954)
+
+Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia, Jingjing Jiao, Yilei Fan, Yu Zhang
 </div>
 </div>
 
@@ -68,9 +74,9 @@ Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia
 - *2018.08 - 2022.08*, Bachelor of Engineering, Zhejiang University, Hangzhou, China
 
 # 💬 Teaching Experiences
+- *2024.09 - 2025.05*, Epidemiologic Methods (I-III), Tutor, Johns Hopkins
 - *2024.08 - 2025.05*, Methods in Biostatistics (I-IV), Teaching Assistant, Johns Hopkins
 - *2020.10 - 2021.01*, Engineering Mechanics, Tutor, Zhejiang University
-- *2024.09 - 2025.05*, Epidemiologic Methods (I-III), Tutor, Johns Hopkins
 
 
 
