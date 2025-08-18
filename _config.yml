@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Sunan Gao"
 description              : "Interested in all things related to Aging"
-repository               : "SNGao/sunangao.github.io/sunangao/"
+repository               : "SNGao/sunangao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
