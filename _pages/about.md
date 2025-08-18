@@ -34,8 +34,6 @@ My research interests center on the intersection of aging biomarkers, wearable d
 - *2025.03*: &nbsp;🎉 My Step Harmonization paper was accepted for publication in The Journals of Gerontology: Series A.
 - *2025.02*: &nbsp; I was admitted to the PhD Program in Population Health at Harvard!
 
-# 📝 Working Projects
-
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food and Function (2025)</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
@@ -115,7 +113,7 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 - *2025.08 - 2029.05 (Expected)*, PhD in Epidemiology, Harvard University, Boston, United States
 - *2024.02 - 2025.05*, Certificate in Clinical Trial, Johns Hopkins University, Baltimore, United States
 - *2023.08 - 2025.05*, ScM in Epidemiology, Johns Hopkins University, Baltimore, United States
-- *2018.08 - 2022.08*, B.E. in Food Science and Engineering, Zhejiang University, Hangzhou, China
+- *2018.08 - 2022.06*, B.E. in Food Science and Engineering, Zhejiang University, Hangzhou, China
 - *2018.08 - 2020.08*, Minor in Psychology, Zhejiang University, Hangzhou, China
 
 # 💬 Teaching Experiences
