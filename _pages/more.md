@@ -1,5 +1,5 @@
 ---
-permalink: /sunangao/more/
+permalink: /more/
 title: "More"
 excerpt: ""
 author_profile: true
