@@ -39,16 +39,7 @@ Sunan Gao is an incoming PhD student in Population Health Sciences (Epidemiology
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecotoxicology and Environmental Safety</div><img src='images/publication/EES.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A new method for internal urinary metabolite exposure and dietary exposure association assessment of 3-MCPD and glycidol and their esters based on machine learning](https://www.sciencedirect.com/science/article/pii/S0147651325008954)
-
-Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia, Jingjing Jiao, Yilei Fan, Yu Zhang
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food & Function</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food & Function (2025)</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring causal links in the gut–brain axis: a Mendelian randomization study of gut microbiota, metabolites, and cognition](https://pubs.rsc.org/en/content/articlelanding/2012/zj/d4fo04366a/unauth)
@@ -57,7 +48,7 @@ Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Journals of Gerontology: Series A</div><img src='images/publication/JGMS-A.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Journals of Gerontology: Series A (2025)</div><img src='images/publication/JGMS-A.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comparing Step-Counting Algorithms for High-Resolution Wrist Accelerometry Data in Older Adults in the ARIC Study](https://doi.org/10.1093/gerona/glaf034)
@@ -66,9 +57,30 @@ Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecotoxicology and Environmental Safety (2025)</div><img src='images/publication/EES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A new method for internal urinary metabolite exposure and dietary exposure association assessment of 3-MCPD and glycidol and their esters based on machine learning](https://www.sciencedirect.com/science/article/pii/S0147651325008954)
+
+Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia, Jingjing Jiao, Yilei Fan, Yu Zhang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Affective Disorders (2023)</div><img src='images/publication/JAFD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Effects of accelerated biological age on depressive symptoms in a causal reasoning framework](https://doi.org/10.1016/j.jad.2023.07.019)
+
+Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Heming Deng, Shaobo Wen, Yu Wang
+</div>
+</div>
 
 
-- [Soy protein/chitosan-based microsphere as Stable Biocompatible Vehicles of Oleanolic Acid: An Emerging Alternative Enabling the Quality Maintenance of Minimally Processed Produce](https://doi.org/10.1016/j.foodhyd.2021.107325), A, B, C, **CVPR 2020**
+
+
+- [Soy protein/chitosan-based microsphere as Stable Biocompatible Vehicles of Oleanolic Acid: An Emerging Alternative Enabling the Quality Maintenance of Minimally Processed Produce](https://doi.org/10.1016/j.foodhyd.2021.107325), **Sunan Gao**, Mingyi Yang, Zisheng Luo, Zhaojun Ban, Ya Pan, Mengyun Tu, Quan Ma, Xingyu Lin, Yanqun Xu, Li Li, **Food Hydrocolloids**
+
+- [A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index](https://doi.org/10.3390/ijerph21020202), Yu Wang, Heming Deng, Sunan Gao, Tongxu Li, Feifei Wang, **International Journal of Environmental Research and Public Health** 
 
 # 🎖 Honors and Awards
 - *2025.05* Abe Lilienfeld Scholarship Fund (one student per year at BSPH, across master’s and doctoral students)
