@@ -1,8 +1,11 @@
 ---
+layout: default
 permalink: /more/
 title: "More"
 excerpt: ""
 author_profile: true
+sidebar:
+  nav: "main"
 ---
 
 
