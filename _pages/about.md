@@ -71,7 +71,17 @@ Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia
 
 [Effects of accelerated biological age on depressive symptoms in a causal reasoning framework](https://doi.org/10.1016/j.jad.2023.07.019)
 
-Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Heming Deng, Shaobo Wen, Yu Wang
+**Sunan Gao**, Heming Deng, Shaobo Wen, Yu Wang
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Affective Disorders (2023)</div><img src='images/publication/BMC_logo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A machine learning-based data mining in medical examination data: a biological features-based biological age prediction model](https://doi.org/10.1186/s12859-022-04966-7)
+
+Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Yuhao Chen, Yinwei Qiu, Yanrong Zhao, Wei Wang, Tianxiang Lin, Huiyun Pan, Ming Chen
 </div>
 </div>
 
