@@ -36,6 +36,7 @@ My research interests center on the intersection of aging biomarkers, wearable d
 
 # 📝 Publications
 
+## Peer-reviewed
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food and Function (2025)</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,6 +98,21 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 - [The chemical composition and potential role of epicuticular and intracuticular wax in four cultivars of table grapes](https://doi.org/10.1016/j.postharvbio.2020.111430), Mingyi Yang, Zisheng Luo, **Sunan Gao**, Tarun Belwal, Lei Wang, Ming Qi, Zhaojun Ban, Bin Wu, Fengzhong Wang, Li Li, <span class="journal">Postharvest Biology and Technology (2021)</span>
 
 - [Application progress and prospect of light-emitting diode light technology in food preservation](10.13386/j.issn1002-0306.2020080116), Juncen Dong, **Sunan Gao**, Jianchu Chen, <span class="journal">Science and Technology of Food Industry (2020)</span>
+
+
+## Under review
+- [Eicosapentaenoic acid modulates 3-chloro-1,2-propanediol di-palmitate ester-induced disrupted metabolism: a dual-approach analysis using non-targeted metabolomics and computational modeling](), **Sunan Gao**, Yimei Tian, Xuzhi Wan, Wei Jia, Jingling Jiao, Yu Zhang
+
+- [Relationship between Health Literacy and Comorbidity burden of Chronic Diseases, along with an analysis of the mediating role of lifestyle behaviors among middle-aged and elderly in China](), Tongxu Li, Sunan Gao, Heming Deng, Yu Wang
+
+<!--
+## Work in progress
+- [Trajectories of Cognitive Decline and Alterations in Physical Activity Patterns in Older Adults: The ARIC Neurocognitive Study](), Sunan Gao, Ciprian Crainiceanu, Anis Davoudi, Ryan J. Dougherty, Alden Gross, Lacey Etzkorn, Amal A. Wanigatunga, Adam P. Spira, Lin Yee Chen, Rebecca F. Gottesman, Francesca R. Marino, Priya Palta, Jill A. Rabinowitz, Vadim Zipunnikov, Jennifer A. Schrack
+
+- [Characterizing Time-of-Day Physical Activity Patterns Across Domain-specific Cognitive Decline Trajectories in Older Adults: A Longitudinal Cohort Study](), Sunan Gao, Ciprian Crainiceanu, Anis Davoudi, Ryan J. Dougherty, Lacey Etzkorn, Priya Palta, Amal A. Wanigatunga, Adam P. Spira, Jennifer A. Schrack
+
+- [Weighted functional-on-scalar regression estimation under complex survey design](), Lily Koffman, **Sunan Gao**, Zhou X, Crainiceanu C, Marino F, Twardzik E, Schrack JA
+-->
 
 
 
