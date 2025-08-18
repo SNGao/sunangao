@@ -90,7 +90,11 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 
 - <span class="journal">Food Hydrocolloids (2022)</span> [Soy protein/chitosan-based microsphere as Stable Biocompatible Vehicles of Oleanolic Acid: An Emerging Alternative Enabling the Quality Maintenance of Minimally Processed Produce](https://doi.org/10.1016/j.foodhyd.2021.107325), **Sunan Gao**, Mingyi Yang, Zisheng Luo, Zhaojun Ban, Ya Pan, Mengyun Tu, Quan Ma, Xingyu Lin, Yanqun Xu, Li Li
 
-- [A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index](https://doi.org/10.3390/ijerph21020202), Yu Wang, Heming Deng, Sunan Gao, Tongxu Li, Feifei Wang, **International Journal of Environmental Research and Public Health** 
+- [A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index](https://doi.org/10.3390/ijerph21020202), Yu Wang, Heming Deng, **Sunan Gao**, Tongxu Li, Feifei Wang, **International Journal of Environmental Research and Public Health** 
+
+- [Reconstructing hepatic metabolic profile and glutathione-mediated metabolic fate of acrylamide](https://doi.org/10.1016/j.envpol.2023.122508), Yong Wu, Yaoran Li, Wei Jia, Li Zhu, Xuzhi Wan, **Sunan Gao**, Yu Zhang, **International Journal of Environmental Research and Public Health** 
+
+
 
 # 🎖 Honors and Awards
 - *2025.05* Abe Lilienfeld Scholarship Fund (one student per year at BSPH, across master’s and doctoral students)
