@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /more/
+permalink: /
 title: "More"
 excerpt: ""
 author_profile: true
