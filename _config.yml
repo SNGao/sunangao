@@ -9,6 +9,8 @@
 title                    : "Sunan Gao"
 description              : "Interested in all things related to Aging"
 repository               : "SNGao/sunangao.github.io"
+baseurl                  : "/sunangao"  # 添加这行！08/18/2025, 用于给子页面背景？
+url                      : "https://sngao.github.io"  # 添加这行！08/18/2025
 google_scholar_stats_use_cdn : true
 
 # google analytics
