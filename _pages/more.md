@@ -21,7 +21,7 @@ More information about research, photography and work experiences will be shown 
 </div>
 -->
 
-<div style="width:500px;">
+<div style="width:300px;">
   <script type="text/javascript" id="clustrmaps"
           src="//clustrmaps.com/map_v2.js?d=Xh02qBrlpo4DamMWciuqLNP69bUdBwhxdJ8crKL_LRo&cl=ffffff&w=a">
   </script>
