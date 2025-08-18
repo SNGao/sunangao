@@ -17,29 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student in Population Health Sciences (Epidemiology) at Harvard T.H. Chan School of Public Health, supervised by Dr. Yuan Ma. 
+I am a first-year PhD student in Epidemiology at Harvard T.H. Chan School of Public Health, supervised by Dr. Yuan Ma. Prior to this, I completed my ScM in Epidemiology at Johns Hopkins Bloomberg School of Public Health (2023-2025), where I worked as a research assistant under the guidance of Dr. Jennifer A. Schrack and Dr. Ciprian Crainiceanu, with additional collaborations with Dr. John Muschelli, Dr. Amal A. Wanigatunga, Dr. Lacey Etzkorn, and Dr. Pablo Martinez-Amezcua. I also underwent master training in Epidemiology and Biostatistics at Renmin University of China (2022-2023) under Dr. Yu Wang. My academic foundation was established with a Bachelor of Engineering from Zhejiang University (2018-2022), where I engaged in research collaborations with Drs. Yu Zhang, Ming Chen, Baiyi Lu, and Li Li.
 
-
-pursuing a Master’s degree in Epidemiology at Johns Hopkins University (since 2023). During this period, I served as a research assistant under the guidance of Prof. Jennifer Schrack and Prof. Ciprian Crainiceanu. I’m also fortunate to collaborate with Prof. John Muschelli. Prior to this, I underwent a year of Biostatistics Master training at Renmin University of China (2022-2023) under the guidance of A. Prof. Yu Wang. My academic journey began with a B.Eng degree (2018-2022) earned at Zhejiang University, where I was under the supervision of Prof. Yu Zhang. I felt lucky to have engaged in research collaborations with Prof. Ming Chen, Prof. Baiyi Lu, and A. Prof. Li Li. I am dedicated to enhance my professional skills in the combination field of BIOS & BIOINFO & EPI and cultivate the ability of innovation.
-
-I am intrigued by the integration of aging indicators (e.g. frailty, biological age), digital biomarkers (e.g. wearable measurement), age-related disease (e.g. Dementia, CVD), and omics (e.g. Metabonomics, Metagenomics, GWAS). Furthermore, exploring biostatistical (e.g. causal inference, functional data) and data science (e.g. transfer learning, deep learning) methods also drive my interest. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=QmKga9sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-Sunan Gao is an incoming PhD student in Population Health Sciences (Epidemiology) at Harvard T.H. Chan School of Public Health. He holds a B.Eng. from Zhejiang University and a Master’s in Epidemiology from Johns Hopkins University. His research integrates high-dimensional data analysis, causal inference, machine learning, and wearable device data to better understand and intervene in aging-related processes. His research experience spans high-dimensional data analysis, causal inference, machine learning, and wearable device. These experiences have shaped his passion for understanding and intervening in aging-related processes. He has co-authored over ten peer-reviewed publications and developed tools for analyzing biological age, digital signals and time series data. Outside of research, he enjoys photography, reading, traveling, and playing ball games.
-
+My research interests center on the intersection of aging biomarkers, wearable devices, cognitive function, and multi-omics data. I am particularly passionate about developing and applying advanced methods including causal inference, functional data analysis, and machine learning approaches. I have co-authored over 10 peer-reviewed publications and developed several R packages for analyzing complex data. (Google Scholar <a href='https://scholar.google.com/citations?user=QmKga9sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). Outside of research, I enjoy photography, traveling, and investing.
 
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉 My undergraduate work was accepted for publication in Ecotoxicology and Environmental Safety!
 - *2025.05*: &nbsp; I graduated from Hopkins with an ScM degree in Epidemiology.
 - *2025.05*: &nbsp; I received the [Abe Lilienfeld Scholarship Fund](https://publichealth.jhu.edu/offices-and-services/office-of-admissions-services/funding-and-scholarships/funding-for-students/fund/83/abe-lilienfeld-scholarship-fund) ($5,000) at Hopkins.
-- *2025.05*: &nbsp;🎉 My Mendelian Randomization paper was accepted for publication in Food & Function.
+- *2025.05*: &nbsp;🎉 My Mendelian Randomization paper was accepted for publication in Food and Function.
 - *2025.03*: &nbsp;🎉 My Step Harmonization paper was accepted for publication in The Journals of Gerontology: Series A.
 - *2025.02*: &nbsp; I was admitted to the PhD Program in Population Health at Harvard!
 
+# 📝 Working Projects
+
 # 📝 Publications (peer-reviewed)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food & Function (2025)</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food and Function (2025)</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring causal links in the gut–brain axis: a Mendelian randomization study of gut microbiota, metabolites, and cognition](https://pubs.rsc.org/en/content/articlelanding/2012/zj/d4fo04366a/unauth)
@@ -87,19 +82,19 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 
 
 
-- <span class="journal">Food Hydrocolloids (2022)</span> [Soy protein/chitosan-based microsphere as Stable Biocompatible Vehicles of Oleanolic Acid: An Emerging Alternative Enabling the Quality Maintenance of Minimally Processed Produce](https://doi.org/10.1016/j.foodhyd.2021.107325), **Sunan Gao**, Mingyi Yang, Zisheng Luo, Zhaojun Ban, Ya Pan, Mengyun Tu, Quan Ma, Xingyu Lin, Yanqun Xu, Li Li
+- [Soy protein/chitosan-based microsphere as Stable Biocompatible Vehicles of Oleanolic Acid: An Emerging Alternative Enabling the Quality Maintenance of Minimally Processed Produce](https://doi.org/10.1016/j.foodhyd.2021.107325), **Sunan Gao**, Mingyi Yang, Zisheng Luo, Zhaojun Ban, Ya Pan, Mengyun Tu, Quan Ma, Xingyu Lin, Yanqun Xu, Li Li, <span class="journal">Food Hydrocolloids (2022)</span>
 
-- <span class="journal">International Journal of Environmental Research and Public Health (2024)</span>[A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index](https://doi.org/10.3390/ijerph21020202), Yu Wang, Heming Deng, **Sunan Gao**, Tongxu Li, Feifei Wang
+- [A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index](https://doi.org/10.3390/ijerph21020202), Yu Wang, Heming Deng, **Sunan Gao**, Tongxu Li, Feifei Wang, <span class="journal">International Journal of Environmental Research and Public Health (2024)</span>
 
-- <span class="journal">Environmental Pollution (2023)</span>[Reconstructing hepatic metabolic profile and glutathione-mediated metabolic fate of acrylamide](https://doi.org/10.1016/j.envpol.2023.122508), Yong Wu, Yaoran Li, Wei Jia, Li Zhu, Xuzhi Wan, **Sunan Gao**, Yu Zhang
+- [Reconstructing hepatic metabolic profile and glutathione-mediated metabolic fate of acrylamide](https://doi.org/10.1016/j.envpol.2023.122508), Yong Wu, Yaoran Li, Wei Jia, Li Zhu, Xuzhi Wan, **Sunan Gao**, Yu Zhang, <span class="journal">Environmental Pollution (2023)</span>
 
-- <span class="journal">Food and Chemical Toxicology (2022)</span>[Machine learning prediction of exposure to acrylamide based on modelling of association between dietary exposure and internal biomarkers](https://doi.org/10.1016/j.fct.2022.113498), Xuzhi Wan, Yiju Zhang, **Sunan Gao**, Xinyi Shen, Wei Jia, Xingqi Pan, Pan Zhuang, Jingjing Jiao, Yu Zhang
+- [Machine learning prediction of exposure to acrylamide based on modelling of association between dietary exposure and internal biomarkers](https://doi.org/10.1016/j.fct.2022.113498), Xuzhi Wan, Yiju Zhang, **Sunan Gao**, Xinyi Shen, Wei Jia, Xingqi Pan, Pan Zhuang, Jingjing Jiao, Yu Zhang, <span class="journal">Food and Chemical Toxicology (2022)</span>
 
-- <span class="journal">Food Chemistry (2022)</span>[Atmospheric pressure plasma jet pretreatment to facilitate cassava starch modification with octenyl succinic anhydride](https://doi.org/10.1016/j.foodchem.2021.130922), Shengyang Ji, Tao Xu, Weisu Huang, **Sunan Gao**, Yongheng Zhong, Xuan Yang, Mohamed Ahmed Hassan, Baiyi Lu
+- [Atmospheric pressure plasma jet pretreatment to facilitate cassava starch modification with octenyl succinic anhydride](https://doi.org/10.1016/j.foodchem.2021.130922), Shengyang Ji, Tao Xu, Weisu Huang, **Sunan Gao**, Yongheng Zhong, Xuan Yang, Mohamed Ahmed Hassan, Baiyi Lu, <span class="journal">Food Chemistry (2022)</span>
 
-- <span class="journal">Postharvest Biology and Technology (2021)</span>[The chemical composition and potential role of epicuticular and intracuticular wax in four cultivars of table grapes](https://doi.org/10.1016/j.postharvbio.2020.111430), Mingyi Yang, Zisheng Luo, **Sunan Gao**, Tarun Belwal, Lei Wang, Ming Qi, Zhaojun Ban, Bin Wu, Fengzhong Wang, Li Li
+- [The chemical composition and potential role of epicuticular and intracuticular wax in four cultivars of table grapes](https://doi.org/10.1016/j.postharvbio.2020.111430), Mingyi Yang, Zisheng Luo, **Sunan Gao**, Tarun Belwal, Lei Wang, Ming Qi, Zhaojun Ban, Bin Wu, Fengzhong Wang, Li Li, <span class="journal">Postharvest Biology and Technology (2021)</span>
 
-- <span class="journal">Science and Technology of Food Industry (2020)</span>[Application progress and prospect of light-emitting diode light technology in food preservation](10.13386/j.issn1002-0306.2020080116), Juncen Dong, **Sunan Gao**, Jianchu Chen
+- [Application progress and prospect of light-emitting diode light technology in food preservation](10.13386/j.issn1002-0306.2020080116), Juncen Dong, **Sunan Gao**, Jianchu Chen, <span class="journal">Science and Technology of Food Industry (2020)</span>
 
 
 
@@ -113,9 +108,11 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 - *2019.10* National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2025.08 - 2029.05 (Expected)*, Doctor of Philosophy, Harvard University, Boston, United States
-- *2023.08 - 2025.05*, Master of Science, Harvard University, Baltimore, United States
-- *2018.08 - 2022.08*, Bachelor of Engineering, Zhejiang University, Hangzhou, China
+- *2025.08 - 2029.05 (Expected)*, PhD in Epidemiology, Harvard University, Boston, United States
+- *2024.02 - 2025.05*, Certificate in Clinical Trial, Johns Hopkins University, Baltimore, United States
+- *2023.08 - 2025.05*, ScM in Epidemiology, Johns Hopkins University, Baltimore, United States
+- *2018.08 - 2022.08*, B.E. in Food Science and Engineering, Zhejiang University, Hangzhou, China
+- *2018.08 - 2020.08*, Minor in Psychology, Zhejiang University, Hangzhou, China
 
 # 💬 Teaching Experiences
 - *2024.09 - 2025.05*, Epidemiologic Methods (I-III), Tutor, Johns Hopkins

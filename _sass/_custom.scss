@@ -11,7 +11,17 @@
   background-color: hsl(238, 95%, 34%);  /* 深蓝背景 */
   color: #ffffff;                        /* 白色文字 */
   padding: 2px 6px;
-  border-radius: 4px;
-  font-weight: bold;
-  font-size: 0.9em;  /* 调整字体大小 */
+  border-radius: 2px; //圆角
+  font-weight: normal; //bold;
+  font-size: 0.8em;  /* 调整字体大小 */
 }
+
+
+// .journal {
+//   background-color: transparent;  /* 没有背景 */
+//   color: hsl(238, 95%, 34%);      /* 深蓝色字体 */
+//   padding: 0;                      /* 去掉内边距 */
+//   border-radius: 0;                /* 没有圆角 */
+//   font-weight: bold;               /* 加粗字体 */
+//   font-size: 0.8em;                /* 调整字体大小，可修改 */
+// }
