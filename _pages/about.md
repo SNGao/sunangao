@@ -101,9 +101,9 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 
 
 ## Under review
-- [Eicosapentaenoic acid modulates 3-chloro-1,2-propanediol di-palmitate ester-induced disrupted metabolism: a dual-approach analysis using non-targeted metabolomics and computational modeling](), **Sunan Gao**, Yimei Tian, Xuzhi Wan, Wei Jia, Jingling Jiao, Yu Zhang
+- [Eicosapentaenoic acid modulates 3-chloro-1,2-propanediol di-palmitate ester-induced disrupted metabolism: a dual-approach analysis using non-targeted metabolomics and computational modeling](), **Sunan Gao**, Yimei Tian, Xuzhi Wan, Wei Jia, Jingling Jiao, Yu Zhang, <span class="journal">Journal of Agricultural and Food Chemistry </span>
 
-- [Relationship between Health Literacy and Comorbidity burden of Chronic Diseases, along with an analysis of the mediating role of lifestyle behaviors among middle-aged and elderly in China](), Tongxu Li, Sunan Gao, Heming Deng, Yu Wang
+- [Relationship between Health Literacy and Comorbidity burden of Chronic Diseases, along with an analysis of the mediating role of lifestyle behaviors among middle-aged and elderly in China](), Tongxu Li, **Sunan Gao**, Heming Deng, Yu Wang, <span class="journal">Aging and Society </span>
 
 <!--
 ## Work in progress
