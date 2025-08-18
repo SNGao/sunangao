@@ -11,4 +11,4 @@ sidebar:
 
 # 🔥 More about Sunan
 
-More information about research, habits and work experiences will be shown here. Coming soon!
+More information about research, photography and work experiences will be shown here. Coming soon!
