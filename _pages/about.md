@@ -37,7 +37,7 @@ Sunan Gao is an incoming PhD student in Population Health Sciences (Epidemiology
 - *2025.03*: &nbsp;🎉 My Step Harmonization paper was accepted for publication in The Journals of Gerontology: Series A.
 - *2025.02*: &nbsp; I was admitted to the PhD Program in Population Health at Harvard!
 
-# 📝 Publications 
+# 📝 Publications (peer-reviewed)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food & Function (2025)</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +76,7 @@ Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Bioinformatics (2023)</div><img src='images/publication/BMC_logo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Bioinformatics (2022)</div><img src='images/publication/BMC_logo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A machine learning-based data mining in medical examination data: a biological features-based biological age prediction model](https://doi.org/10.1186/s12859-022-04966-7)
