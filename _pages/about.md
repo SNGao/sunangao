@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-{#about-me}
 I am a first-year PhD student in Epidemiology at Harvard T.H. Chan School of Public Health, supervised by [Dr. Yuan Ma](https://connects.catalyst.harvard.edu/Profiles/profile/123145944). Prior to this, I completed my ScM in Epidemiology at Johns Hopkins Bloomberg School of Public Health (2023-2025), where I worked as a research assistant under the guidance of [Dr. Jennifer A. Schrack](https://publichealth.jhu.edu/faculty/2686/jennifer-a-schrack) and [Dr. Ciprian Crainiceanu](https://publichealth.jhu.edu/faculty/1442/ciprian-m-crainiceanu), with additional collaborations with [Dr. John Muschelli](https://publichealth.jhu.edu/faculty/2438/john-muschelli), [Dr. Amal A. Wanigatunga](https://publichealth.jhu.edu/faculty/3809/amal-asiri-wanigatunga), [Dr. Lacey Etzkorn](https://publichealth.jhu.edu/faculty/4768/lacey-etzkorn), and [Dr. Pablo Martinez-Amezcua](https://publichealth.jhu.edu/faculty/4426/pablo-martinez-amezcua). I also underwent master training in Epidemiology and Biostatistics at Renmin University of China (2022-2023) under [Dr. Yu Wang](http://stat.ruc.edu.cn/Home/People/Faculty/01eb35dbf5fe41588f82d3150ffcf409.htm). My academic foundation was established with a Bachelor of Engineering from Zhejiang University (2018-2022), where I engaged in research collaborations with [Drs. Yu Zhang](https://person.zju.edu.cn/en/yzhang#0), [Ming Chen](https://bis.zju.edu.cn/binfo/), [Baiyi Lu](https://www.researchgate.net/profile/Baiyi-Lu-2), and [Li Li](https://person.zju.edu.cn/en/lili).
 
 My research interests center on the intersection of aging biomarkers, wearable devices, cognitive function, and multi-omics data. I am particularly passionate about developing and applying advanced methods including causal inference, functional data analysis, and machine learning approaches. I have co-authored over 10 peer-reviewed publications and developed several R packages for analyzing complex data. 
