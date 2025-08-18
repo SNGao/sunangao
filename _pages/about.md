@@ -76,7 +76,7 @@ Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Affective Disorders (2023)</div><img src='images/publication/BMC_logo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Bioinformatics (2023)</div><img src='images/publication/BMC_logo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A machine learning-based data mining in medical examination data: a biological features-based biological age prediction model](https://doi.org/10.1186/s12859-022-04966-7)
@@ -87,12 +87,19 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 
 
 
-
 - <span class="journal">Food Hydrocolloids (2022)</span> [Soy protein/chitosan-based microsphere as Stable Biocompatible Vehicles of Oleanolic Acid: An Emerging Alternative Enabling the Quality Maintenance of Minimally Processed Produce](https://doi.org/10.1016/j.foodhyd.2021.107325), **Sunan Gao**, Mingyi Yang, Zisheng Luo, Zhaojun Ban, Ya Pan, Mengyun Tu, Quan Ma, Xingyu Lin, Yanqun Xu, Li Li
 
 - <span class="journal">International Journal of Environmental Research and Public Health (2024)</span>[A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index](https://doi.org/10.3390/ijerph21020202), Yu Wang, Heming Deng, **Sunan Gao**, Tongxu Li, Feifei Wang
 
 - <span class="journal">Environmental Pollution (2023)</span>[Reconstructing hepatic metabolic profile and glutathione-mediated metabolic fate of acrylamide](https://doi.org/10.1016/j.envpol.2023.122508), Yong Wu, Yaoran Li, Wei Jia, Li Zhu, Xuzhi Wan, **Sunan Gao**, Yu Zhang
+
+- <span class="journal">Food and Chemical Toxicology (2022)</span>[Machine learning prediction of exposure to acrylamide based on modelling of association between dietary exposure and internal biomarkers](https://doi.org/10.1016/j.fct.2022.113498), Xuzhi Wan, Yiju Zhang, **Sunan Gao**, Xinyi Shen, Wei Jia, Xingqi Pan, Pan Zhuang, Jingjing Jiao, Yu Zhang
+
+- <span class="journal">Food Chemistry (2022)</span>[Atmospheric pressure plasma jet pretreatment to facilitate cassava starch modification with octenyl succinic anhydride](https://doi.org/10.1016/j.foodchem.2021.130922), Shengyang Ji, Tao Xu, Weisu Huang, **Sunan Gao**, Yongheng Zhong, Xuan Yang, Mohamed Ahmed Hassan, Baiyi Lu
+
+- <span class="journal">Postharvest Biology and Technology (2021)</span>[The chemical composition and potential role of epicuticular and intracuticular wax in four cultivars of table grapes](https://doi.org/10.1016/j.postharvbio.2020.111430), Mingyi Yang, Zisheng Luo, **Sunan Gao**, Tarun Belwal, Lei Wang, Ming Qi, Zhaojun Ban, Bin Wu, Fengzhong Wang, Li Li
+
+- <span class="journal">Science and Technology of Food Industry (2020)</span>[Application progress and prospect of light-emitting diode light technology in food preservation](10.13386/j.issn1002-0306.2020080116), Juncen Dong, **Sunan Gao**, Jianchu Chen
 
 
 
