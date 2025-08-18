@@ -51,13 +51,24 @@ Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food & Function</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring causal links in the gut–brain axis: a Mendelian randomization study of gut microbiota, metabolites, and cognition](https://www.sciencedirect.com/science/article/pii/S0147651325008954)
+[Exploring causal links in the gut–brain axis: a Mendelian randomization study of gut microbiota, metabolites, and cognition](https://pubs.rsc.org/en/content/articlelanding/2012/zj/d4fo04366a/unauth)
 
-Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia, Jingjing Jiao, Yilei Fan, Yu Zhang
+**Sunan Gao**, Angela Y. Xiao, Siyu Zou, Tongxu Li, Heming Deng, Yu Wang
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Journals of Gerontology: Series A</div><img src='images/publication/JGMS-A.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Comparing Step-Counting Algorithms for High-Resolution Wrist Accelerometry Data in Older Adults in the ARIC Study](https://doi.org/10.1093/gerona/glaf034)
+
+**Sunan Gao**, Xinkai Zhou, Lily Koffman, Amal A Wanigatunga, Jennifer A Schrack, Ciprian M Crainiceanu, John Muschelli, III
+</div>
+</div>
+
+
+
+- [Soy protein/chitosan-based microsphere as Stable Biocompatible Vehicles of Oleanolic Acid: An Emerging Alternative Enabling the Quality Maintenance of Minimally Processed Produce](https://doi.org/10.1016/j.foodhyd.2021.107325), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2025.05* Abe Lilienfeld Scholarship Fund (one student per year at BSPH, across master’s and doctoral students)
