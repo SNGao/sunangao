@@ -36,7 +36,7 @@ My research interests center on the intersection of aging biomarkers, wearable d
 
 # 📝 Working Projects
 
-# 📝 Publications (peer-reviewed) {#-publications}
+# 📝 Publications (peer-reviewed)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food and Function (2025)</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
