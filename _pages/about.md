@@ -135,6 +135,7 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 - *2018.08 - 2020.08*, Minor in Psychology, Zhejiang University, Hangzhou, China
 
 # 💬 Teaching Experiences
+- *2025.19 - 2026.04 (Expected)*, MPH in Epidemiology program, Statistical Consultant, Harvard University
 - *2024.09 - 2025.05*, Epidemiologic Methods (I-III), Tutor, Johns Hopkins
 - *2024.08 - 2025.05*, Methods in Biostatistics (I-IV), Teaching Assistant, Johns Hopkins
 - *2020.10 - 2021.01*, Engineering Mechanics, Tutor, Zhejiang University
