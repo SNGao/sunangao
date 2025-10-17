@@ -27,6 +27,7 @@ My research interests center on the intersection of aging biomarkers, wearable d
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉 My undergraduate thesis was accepted in Journal of Agricultural and Food Chemistry!
 - *2025.07*: &nbsp;🎉 My undergraduate work was accepted for publication in Ecotoxicology and Environmental Safety!
 - *2025.05*: &nbsp; I graduated from Hopkins with an ScM degree in Epidemiology.
 - *2025.05*: &nbsp; I received the [Abe Lilienfeld Scholarship Fund](https://publichealth.jhu.edu/offices-and-services/office-of-admissions-services/funding-and-scholarships/funding-for-students/fund/83/abe-lilienfeld-scholarship-fund) ($5,000) at Hopkins.
