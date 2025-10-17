@@ -38,6 +38,15 @@ My research interests center on the intersection of aging biomarkers, wearable d
 # 📝 Publications
 
 ## Peer-reviewed
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Agricultural and Food Chemistry (2025)</div><img src='images/publication/JAFC_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Eicosapentaenoic acid modulates 3-chloro-1,2-propanediol di-palmitate ester-induced disrupted metabolism: a dual-approach analysis using non-targeted metabolomics and computational modeling](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=QmKga9sAAAAJ)
+
+**Sunan Gao<sup>1</sup>**, Yimei Tian<sup>1</sup>, Zhoujing Zhu, Shixin Zhang, Xuzhi Wan, Wei Jia, Haoyu Li, Jingjing Jiao, Zhen Meng*, Yu Zhang*
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food and Function (2025)</div><img src='images/publication/FF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
