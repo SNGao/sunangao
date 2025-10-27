@@ -41,7 +41,7 @@ My research interests center on the intersection of aging biomarkers, wearable d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Agricultural and Food Chemistry (2025)</div><img src='images/publication/JAFC_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Eicosapentaenoic acid modulates 3-chloro-1,2-propanediol di-palmitate ester-induced disrupted metabolism: a dual-approach analysis using non-targeted metabolomics and computational modeling](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=QmKga9sAAAAJ)
+[Eicosapentaenoic acid modulates 3-chloro-1,2-propanediol di-palmitate ester-induced disrupted metabolism: a dual-approach analysis using non-targeted metabolomics and computational modeling](https://pubs.acs.org/doi/10.1021/acs.jafc.5c11074J)
 
 **Sunan Gao<sup>1</sup>**, Yimei Tian<sup>1</sup>, Zhoujing Zhu, Shixin Zhang, Xuzhi Wan, Wei Jia, Haoyu Li, Jingjing Jiao, Zhen Meng*, Yu Zhang*
 </div>
@@ -65,6 +65,7 @@ My research interests center on the intersection of aging biomarkers, wearable d
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecotoxicology and Environmental Safety (2025)</div><img src='images/publication/EES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,6 +74,7 @@ My research interests center on the intersection of aging biomarkers, wearable d
 Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia, Jingjing Jiao, Yilei Fan, Yu Zhang
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Affective Disorders (2023)</div><img src='images/publication/JAFD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,12 +96,13 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 </div>
 
 
-
-- [Soy protein/chitosan-based microsphere as Stable Biocompatible Vehicles of Oleanolic Acid: An Emerging Alternative Enabling the Quality Maintenance of Minimally Processed Produce](https://doi.org/10.1016/j.foodhyd.2021.107325), **Sunan Gao**, Mingyi Yang, Zisheng Luo, Zhaojun Ban, Ya Pan, Mengyun Tu, Quan Ma, Xingyu Lin, Yanqun Xu, Li Li, <span class="journal">Food Hydrocolloids (2022)</span>
+- [A new method for internal urinary metabolite exposure and dietary exposure association assessment of 3-MCPD and glycidol and their esters based on machine learning](https://www.sciencedirect.com/science/article/pii/S0147651325008954), Yimei Tian<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Fan Zhang, Xuzhi Wan, Wei Jia, Jingjing Jiao, Yilei Fan, Yu Zhang <span class="journal">Ecotoxicology and Environmental Safety (2025)</span>
 
 - [A Fresh Perspective on Examining Population Emotional Well-Being Trends by Internet Search Engine: An Emerging Composite Anxiety and Depression Index](https://doi.org/10.3390/ijerph21020202), Yu Wang, Heming Deng, **Sunan Gao**, Tongxu Li, Feifei Wang, <span class="journal">International Journal of Environmental Research and Public Health (2024)</span>
 
 - [Reconstructing hepatic metabolic profile and glutathione-mediated metabolic fate of acrylamide](https://doi.org/10.1016/j.envpol.2023.122508), Yong Wu, Yaoran Li, Wei Jia, Li Zhu, Xuzhi Wan, **Sunan Gao**, Yu Zhang, <span class="journal">Environmental Pollution (2023)</span>
+
+- [Soy protein/chitosan-based microsphere as Stable Biocompatible Vehicles of Oleanolic Acid: An Emerging Alternative Enabling the Quality Maintenance of Minimally Processed Produce](https://doi.org/10.1016/j.foodhyd.2021.107325), **Sunan Gao**, Mingyi Yang, Zisheng Luo, Zhaojun Ban, Ya Pan, Mengyun Tu, Quan Ma, Xingyu Lin, Yanqun Xu, Li Li, <span class="journal">Food Hydrocolloids (2022)</span>
 
 - [Machine learning prediction of exposure to acrylamide based on modelling of association between dietary exposure and internal biomarkers](https://doi.org/10.1016/j.fct.2022.113498), Xuzhi Wan, Yiju Zhang, **Sunan Gao**, Xinyi Shen, Wei Jia, Xingqi Pan, Pan Zhuang, Jingjing Jiao, Yu Zhang, <span class="journal">Food and Chemical Toxicology (2022)</span>
 
@@ -143,7 +146,7 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 - *2018.08 - 2020.08*, Minor in Psychology, Zhejiang University, Hangzhou, China
 
 # 💬 Teaching Experiences
-- *2025.19 - 2026.04 (Expected)*, MPH in Epidemiology program, Statistical Consultant, Harvard University
+- *2025.09 - 2026.04 (Expected)*, MPH in Epidemiology program, Statistical Consultant, Harvard University
 - *2024.09 - 2025.05*, Epidemiologic Methods (I-III), Tutor, Johns Hopkins
 - *2024.08 - 2025.05*, Methods in Biostatistics (I-IV), Teaching Assistant, Johns Hopkins
 - *2020.10 - 2021.01*, Engineering Mechanics, Tutor, Zhejiang University
