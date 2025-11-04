@@ -114,12 +114,20 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 
 
 ## Under review
+- [Trajectories of Cognitive Decline and Late-Life Physical Activity in Older Adults: The ARIC Neurocognitive Study](), Jennifer A. Schrack, **Sunan Gao**, Amal A. Wanigatunga, Lacey Etzkorn, Ryan J. Dougherty, Alden L. Gross, Anis Davoudi, Vadim Zipunnikov, Lin Yee Chen, Rebecca F. Gottesman, Francesca R. Marino, Priya Palta, Jill A. Rabinowitz, Adam P. Spira, Ciprian M. Crainiceanu, <span class="journal"> Publication Committee </span>
+
+- [Characterizing Time-of-Day Physical Activity Patterns Across Domain-specific Cognitive Decline Trajectories in Older Adults: A Longitudinal Cohort Study](), Sunan Gao, Ciprian Crainiceanu, Anis Davoudi, Ryan J. Dougherty, Lacey Etzkorn, Priya Palta, Amal A. Wanigatunga, Adam P. Spira, Jennifer A. Schrack, , <span class="journal"> Publication Committee </span>
+
 - [Effects of Dietary Patterns and Sodium Intake on Blood Pressure Variability: Results from the DASH and DASH-Sodium Trials](), Siyu Zou, **Sunan Gao**, Stephen P. Juraschek, Edgar R. Miller III, Kunihiro Matsushita, Lawrence J. Appel, <span class="journal"> Journal of Hypertension </span>
 
 - [Relationship between Health Literacy and Comorbidity burden of Chronic Diseases, along with an analysis of the mediating role of lifestyle behaviors among middle-aged and elderly in China](), Tongxu Li, **Sunan Gao**, Heming Deng, Yu Wang, <span class="journal">Aging and Society </span>
 
+- [Frequent consumption of palm-oil-rich ultra-processed foods deteriorates glucose metabolism dysfunction]() Yimei Tian, Zongmei Yang, Jia Zeng, Denghui Meng, **Sunan Gao**, Fan Zhang, Yang Ao, Hao Ye, Wei Jia, Xuzhi Wan, Jingjing Jiao, Yu Zhang, <span class="journal">Nature Metabolsim </span>
+
+
+
 <!--
-## Work in progress
+## Under Review
 - [Trajectories of Cognitive Decline and Alterations in Physical Activity Patterns in Older Adults: The ARIC Neurocognitive Study](), Sunan Gao, Ciprian Crainiceanu, Anis Davoudi, Ryan J. Dougherty, Alden Gross, Lacey Etzkorn, Amal A. Wanigatunga, Adam P. Spira, Lin Yee Chen, Rebecca F. Gottesman, Francesca R. Marino, Priya Palta, Jill A. Rabinowitz, Vadim Zipunnikov, Jennifer A. Schrack
 
 - [Characterizing Time-of-Day Physical Activity Patterns Across Domain-specific Cognitive Decline Trajectories in Older Adults: A Longitudinal Cohort Study](), Sunan Gao, Ciprian Crainiceanu, Anis Davoudi, Ryan J. Dougherty, Lacey Etzkorn, Priya Palta, Amal A. Wanigatunga, Adam P. Spira, Jennifer A. Schrack
