@@ -114,9 +114,9 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 
 
 ## Under review
-- [Trajectories of Cognitive Decline and Late-Life Physical Activity in Older Adults: The ARIC Neurocognitive Study](), Jennifer A. Schrack, **Sunan Gao**, Amal A. Wanigatunga, Lacey Etzkorn, Ryan J. Dougherty, Alden L. Gross, Anis Davoudi, Vadim Zipunnikov, Lin Yee Chen, Rebecca F. Gottesman, Francesca R. Marino, Priya Palta, Jill A. Rabinowitz, Adam P. Spira, Ciprian M. Crainiceanu, <span class="journal"> Publication Committee </span>
+- [Trajectories of Cognitive Decline and Late-Life Physical Activity in Older Adults: The ARIC Neurocognitive Study](), Jennifer A. Schrack (Advisor), **Sunan Gao**, Amal A. Wanigatunga, Lacey Etzkorn, Ryan J. Dougherty, Alden L. Gross, Anis Davoudi, Vadim Zipunnikov, Lin Yee Chen, Rebecca F. Gottesman, Francesca R. Marino, Priya Palta, Jill A. Rabinowitz, Adam P. Spira, Ciprian M. Crainiceanu, <span class="journal"> Publication Committee </span>
 
-- [Characterizing Time-of-Day Physical Activity Patterns Across Domain-specific Cognitive Decline Trajectories in Older Adults: A Longitudinal Cohort Study](), Sunan Gao, Ciprian Crainiceanu, Anis Davoudi, Ryan J. Dougherty, Lacey Etzkorn, Priya Palta, Amal A. Wanigatunga, Adam P. Spira, Jennifer A. Schrack, , <span class="journal"> Publication Committee </span>
+- [Characterizing Time-of-Day Physical Activity Patterns Across Domain-specific Cognitive Decline Trajectories in Older Adults: A Longitudinal Cohort Study](), **Sunan Gao**, Ciprian Crainiceanu, Anis Davoudi, Ryan J. Dougherty, Lacey Etzkorn, Priya Palta, Amal A. Wanigatunga, Adam P. Spira, Jennifer A. Schrack, , <span class="journal"> Publication Committee </span>
 
 - [Effects of Dietary Patterns and Sodium Intake on Blood Pressure Variability: Results from the DASH and DASH-Sodium Trials](), Siyu Zou, **Sunan Gao**, Stephen P. Juraschek, Edgar R. Miller III, Kunihiro Matsushita, Lawrence J. Appel, <span class="journal"> Journal of Hypertension </span>
 
