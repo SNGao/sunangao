@@ -162,6 +162,6 @@ Qing Yang<sup>1</sup>, **Sunan Gao**<sup>1</sup>, Junfen Lin, Ke Lyu, Zexu Wu, Y
 - *2020.10 - 2021.01*, Engineering Mechanics, Tutor, Zhejiang University
 
 # 💼 Editorial Activities (Peer Reviewer)
-- Medicine & Science & Sports & Exercise; Food Hydrocolloids; Frontiers in Aging
+- Medicine & Science & Sports & Exercise; Lipids in Health and Disease; Food Hydrocolloids; Frontiers in Aging
 
 
